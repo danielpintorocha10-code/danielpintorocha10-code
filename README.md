@@ -1,77 +1,68 @@
-# Olá! 👋 Eu sou Daniel Pinto Rocha
+# 👋 Olá! Eu sou Daniel Pinto Rocha
 
-### 🐍 Estudante de ADS | Desenvolvedor Backend Python em formação
+### 🐍 Estudante de ADS | Backend Python em formação
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no 3º semestre, com foco no desenvolvimento **Backend utilizando Python**.
 
-Tenho desenvolvido projetos práticos para fortalecer meus conhecimentos em programação, APIs, bancos de dados e boas práticas de desenvolvimento.
+Tenho desenvolvido projetos práticos para fortalecer meus conhecimentos em programação, bancos de dados, APIs e boas práticas de desenvolvimento.
 
-Meu objetivo é conquistar uma oportunidade de **Estágio ou Desenvolvedor Python Júnior**, continuando minha evolução profissional na área de Backend.
+Meu objetivo é conquistar uma oportunidade de **Estágio ou Desenvolvedor Python Júnior**, contribuindo com dedicação, aprendizado contínuo e desenvolvimento de soluções eficientes.
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-- 🐍 Foco em Backend com Python
-- 💻 Desenvolvendo projetos práticos
-- 🔧 Estudando APIs REST e desenvolvimento de sistemas
-- 🗄️ Aprendendo bancos de dados e SQL
-- 🌱 Evoluindo continuamente em Python e Backend
-- 🎯 Objetivo: Estágio / Desenvolvedor Python Júnior
+* 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+* 🐍 Foco em desenvolvimento Backend com Python
+* 💻 Desenvolvimento de projetos práticos
+* 🗄️ Estudos em bancos de dados e SQL
+* 🔧 Git e GitHub para versionamento de projetos
+* 🌱 Estudando boas práticas e organização de código
+* 🎯 Buscando minha primeira oportunidade profissional como desenvolvedor Backend
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-### Linguagem
+### 💻 Desenvolvimento
 
-🐍 Python
+* 🐍 Python
+* 🌐 Flask
+* ⚡ FastAPI
+* 🔌 APIs REST
 
-### Backend
+### 🗄️ Banco de dados
 
-- Flask
-- FastAPI
-- APIs REST
+* SQLite
+* SQL
+* JSON
 
-### Banco de dados
+### 🔧 Ferramentas
 
-- SQLite
-- SQL
-
-### Ferramentas
-
-- Git
-- GitHub
-- VS Code
-
-### Em aprendizado
-
-- Testes automatizados
-- PEP 8 e boas práticas
-- Arquitetura de aplicações
-- Banco de dados
-- Desenvolvimento de APIs REST
+* Git
+* GitHub
+* Visual Studio Code
 
 ---
 
-## 📌 Projetos
+## 📌 Projetos em destaque
 
-### 🗃️ Sistema de Gerenciamento de Estoque
+### 📦 Sistema de Gerenciamento de Estoque
 
-Sistema desenvolvido em Python para gerenciamento de produtos.
+Projeto desenvolvido em Python para gerenciamento de produtos.
 
-Principais funcionalidades:
+**Funcionalidades:**
 
-- Cadastro de produtos
-- Listagem de produtos
-- Busca de produtos
-- Atualização de produtos
-- Remoção de produtos
-- Persistência de dados em JSON
-- Tratamento de erros
+* Cadastro de produtos
+* Listagem de produtos
+* Busca de produtos
+* Atualização de produtos
+* Remoção de produtos
+* Geração de IDs
+* Persistência de dados
+* Tratamento de erros
 
-🔗 Em desenvolvimento e evolução contínua.
+🔗 [Ver projeto no GitHub](https://github.com/danielpintorocha10-code/sistema-gerenciamento-estoque-python)
 
 ---
 
@@ -84,10 +75,37 @@ Boas práticas e PEP 8
    ↓
 Testes automatizados
    ↓
-SQLite / SQL
+SQLite e SQL
    ↓
 Flask / FastAPI
    ↓
 APIs REST
    ↓
 Projetos Backend
+```
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco uma oportunidade de **Estágio ou Desenvolvedor Python Júnior**, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de soluções reais.
+
+Tenho interesse especialmente em:
+
+* Desenvolvimento Backend
+* APIs REST
+* Python
+* Bancos de dados
+* Arquitetura de software
+* Automação de processos
+
+---
+
+## 📫 Contato
+
+🐙 **GitHub:** [danielpintorocha10-code](https://github.com/danielpintorocha10-code)
+
+---
+
+⭐ Obrigado por visitar meu perfil!
+
