@@ -103,9 +103,11 @@ Tenho interesse especialmente em:
 
 ## 📫 Contato
 
-🐙 **GitHub:** [danielpintorocha10-code](https://github.com/danielpintorocha10-code)
+📧 **E-mail:** danielpintorocha10@gmail.com
 
----
+💼 **LinkedIn:** [Daniel Pinto Rocha](https://www.linkedin.com/in/daniel-pinto-rocha-dev)
+
+🐙 **GitHub:** [@danielpintorocha10-code](https://github.com/danielpintorocha10-code)
 
 ⭐ Obrigado por visitar meu perfil!
 
