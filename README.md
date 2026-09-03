@@ -1,142 +1,92 @@
-# 👋 Olá, eu sou Daniel Pinto Rocha
+# Hi 👋, Eu sou o Daniel Rocha
 
-### 🐍 Estudante de ADS | Backend Python em formação
+🚀 **Backend Developer | Especialista em Python**  
+🇧🇷 Brasil
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente no 3º semestre, com foco em **desenvolvimento Backend utilizando Python**.
-
-Tenho desenvolvido projetos práticos para fortalecer meus conhecimentos em **Python, APIs REST, bancos de dados, Git e testes**, buscando aplicar boas práticas de programação e organização de código.
-
-Atualmente, meu objetivo é conquistar uma oportunidade de **Estágio em Backend Python ou Desenvolvedor Python Júnior**, onde eu possa continuar evoluindo tecnicamente e contribuir com projetos reais.
+Eu construo **APIs robustas**, **arquiteturas escaláveis** e **soluções backend de alta performance**.  
+Sou focado em **clean code, modelagem de dados eficiente, resolução de problemas e soluções voltadas para o negócio**.
 
 ---
 
-## 🚀 Sobre mim
+## 🌐 Onde me encontrar
 
-* 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-* 🐍 Foco em desenvolvimento Backend com Python
-* 💻 Desenvolvimento de projetos práticos
-* 🌐 Desenvolvimento e consumo de APIs REST
-* 🗄️ Estudos em SQL e bancos de dados
-* 🧪 Testes automatizados com pytest
-* 🔧 Git e GitHub para versionamento
-* 🌱 Aprendizado contínuo em boas práticas de desenvolvimento
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-### 💻 Backend
-
-* Python
-* Flask
-* FastAPI
-* APIs REST
-* CRUD
-
-### 🗄️ Dados
-
-* SQL
-* SQLite
-* JSON
-* Pandas
-
-### 🧪 Testes
-
-* pytest
-
-### 🔧 Ferramentas
-
-* Git
-* GitHub
-* Visual Studio Code
+<p align="left">
+  <a href="https://www.linkedin.com/in/daniel-pinto-rocha-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-DANIEL_ROCHA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/danielpintorocha10-code">
+    <img src="https://img.shields.io/badge/GitHub-DANIELPINTOROCHA10-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## 📌 Projetos em destaque
+## 💻 Meus Projetos em Destaque
 
-### 📦 Sistema de Gerenciamento de Estoque
+Aqui estão alguns dos principais projetos que desenvolvi focados em backend e automação:
 
-Sistema desenvolvido em Python para gerenciamento de produtos, utilizando operações CRUD, validações e persistência de dados.
+* 🔐 **[Flask Auth](https://github.com/danielpintorocha10-code/flask-auth)**: Sistema de autenticação de usuários e controle de rotas seguras.  
+  * **Tecnologias:** Python, Flask, Criptografia, Banco de Dados.
 
-**Principais funcionalidades:**
+* 📦 **[Sistema de Estoque V2](https://github.com/danielpintorocha10-code/sistema-estoque-python-v2)**: Aplicação de gerenciamento de estoque para controle de entrada e saída de produtos aplicando regras de negócio.  
+  * **Tecnologias:** Python, Lógica de Negócios, Persistência de Dados.
 
-* Cadastro de produtos
-* Listagem de produtos
-* Busca por ID
-* Atualização de produtos
-* Remoção de produtos
-* Geração automática de IDs
-* Validação de dados
-* Persistência em arquivo JSON
-* Tratamento de erros
+* 🤖 **[Automação de Cadastro de Produtos](https://github.com/danielpintorocha10-code/automacao-cadastro-produtos)**: Script desenvolvido para automatizar processos repetitivos de cadastro, otimizando tempo e reduzindo erros manuais.  
+  * **Tecnologias:** Python, Automação de Tarefas.
 
-🔗 **[Ver projeto no GitHub](https://github.com/danielpintorocha10-code/sistema-gerenciamento-estoque-python)**
+* 🔗 **[Encurtador de URL](https://github.com/danielpintorocha10-code/encurtador-url)**: Serviço backend para transformar links longos em URLs curtas e amigáveis.  
+  * **Tecnologias:** Python, Manipulação de Rotas, Banco de Dados.
 
----
-
-### ✅ Gerenciador de Tarefas
-
-Projeto desenvolvido para praticar desenvolvimento Backend utilizando Python e Flask, trabalhando com operações CRUD, requisições HTTP e respostas em JSON.
-
-**Tecnologias:** Python • Flask • API REST • JSON
+* 📝 **[Tasks Flask CRUD](https://github.com/danielpintorocha10-code/tasks-flask-crud)**: API RESTful completa para gerenciamento de tarefas (Create, Read, Update, Delete).  
+  * **Tecnologias:** Python, Flask, REST API.
 
 ---
 
-### 🤖 Automação de Cadastro de Produtos
+## 🧠 O que eu faço
 
-Projeto desenvolvido em Python com foco em automação e manipulação de dados.
-
-**Tecnologias:** Python • Pandas • Automação
-
----
-
-## 📚 Atualmente estudando
-
-```text
-Python
-   ↓
-Boas práticas e PEP 8
-   ↓
-Testes automatizados
-   ↓
-SQL e bancos de dados
-   ↓
-Flask / FastAPI
-   ↓
-APIs REST
-   ↓
-Projetos Backend
-```
+-   🐍 Desenvolvimento Backend com Python (Flask, Django)
+-   🏗️ Criação de APIs RESTful e integração de sistemas
+-   🗄️ Modelagem e otimização de Bancos de Dados (SQL & NoSQL)
+-   🤖 Automação de processos, Web Scraping e Extração de Dados
+-   🐳 Dockerização e ambiente de desenvolvimento
 
 ---
 
-## 🎯 Objetivo profissional
+## 🛠️ Tech Stack
 
-Busco uma oportunidade de **Estágio em Backend Python ou Desenvolvedor Python Júnior**.
+### Backend & Linguagens
 
-Tenho interesse em trabalhar com:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-* 🐍 Desenvolvimento Backend com Python
-* 🌐 APIs REST
-* 🗄️ Bancos de dados
-* 🧪 Testes automatizados
-* ⚙️ Automação de processos
-* 🏗️ Desenvolvimento e manutenção de sistemas
+### Bancos de Dados & Ferramentas
 
-Meu objetivo é continuar evoluindo tecnicamente, aprender com profissionais experientes e contribuir para a construção de soluções eficientes e bem estruturadas.
-
----
-
-## 📫 Contato
-
-📧 **E-mail:** [danielpintorocha10@gmail.com](mailto:danielpintorocha10@gmail.com)
-
-💼 **LinkedIn:** [Daniel Pinto Rocha](https://www.linkedin.com/in/daniel-pinto-rocha-dev)
-
-🐙 **GitHub:** [danielpintorocha10-code](https://github.com/danielpintorocha10-code)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+## 📊 Estatísticas no GitHub
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=danielpintorocha10-code&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpintorocha10-code&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Filosofia
+
+> _"Um bom backend é aquele que ninguém percebe que existe, porque simplesmente funciona. 
+> Código deve ser construído para escalar, ser mantido facilmente e gerar valor real de negócio."_
+
+---
+
+⭐ Se você curtiu meu trabalho, considere dar uma estrela em um dos meus repositórios!  
+🤝 Sempre aberto a colaborações, parcerias e novas oportunidades no mundo Python.
 
 
