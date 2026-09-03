@@ -3,8 +3,9 @@
 🚀 **Backend Developer | Especialista em Python**  
 🇧🇷 Brasil
 
-Eu construo **APIs robustas**, **arquiteturas escaláveis** e **soluções backend de alta performance**.  
-Sou focado em **clean code, modelagem de dados eficiente, resolução de problemas e soluções voltadas para o negócio**.
+Com uma base sólida em **Suporte de TI**, desenvolvi uma forte capacidade analítica para *troubleshooting* (resolução de problemas complexos). Hoje, aplico essa visão focada no usuário e na estabilidade dos sistemas para construir **APIs robustas**, **arquiteturas escaláveis** e **soluções backend de alta performance**.  
+
+Sou focado em **clean code, modelagem de dados eficiente e soluções voltadas para o negócio**.
 
 ---
 
@@ -18,6 +19,16 @@ Sou focado em **clean code, modelagem de dados eficiente, resolução de problem
     <img src="https://img.shields.io/badge/GitHub-DANIELPINTOROCHA10-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
+
+---
+
+## 💼 Experiência Profissional
+
+* 👨‍💻 **Desenvolvimento Backend (Atual)**  
+  Foco na criação de aplicações web, APIs RESTful e automação de processos utilizando o ecossistema Python (Flask, Django), garantindo a integração de sistemas e a modelagem eficiente de bancos de dados.
+
+* 🛠️ **Suporte Técnico de TI**  
+  Experiência prática em atendimento, manutenção e infraestrutura. Atuação direta na resolução de chamados de usuários, diagnóstico de falhas em sistemas e hardware, e garantia da continuidade dos serviços. Essa vivência me trouxe empatia pelo cliente final e agilidade para encontrar a causa raiz de problemas em produção.
 
 ---
 
@@ -42,16 +53,6 @@ Aqui estão alguns dos principais projetos que desenvolvi focados em backend e a
 
 ---
 
-## 🧠 O que eu faço
-
--   🐍 Desenvolvimento Backend com Python (Flask, Django)
--   🏗️ Criação de APIs RESTful e integração de sistemas
--   🗄️ Modelagem e otimização de Bancos de Dados (SQL & NoSQL)
--   🤖 Automação de processos, Web Scraping e Extração de Dados
--   🐳 Dockerização e ambiente de desenvolvimento
-
----
-
 ## 🛠️ Tech Stack
 
 ### Backend & Linguagens
@@ -73,8 +74,19 @@ Aqui estão alguns dos principais projetos que desenvolvi focados em backend e a
 ## 📊 Estatísticas no GitHub
 
 <p align="left">
+  <!-- Troféus do GitHub -->
+  <img src="https://github-profile-trophy.vercel.app/?username=danielpintorocha10-code&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</p>
+
+<p align="left">
+  <!-- Status Geral e Linguagens -->
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=danielpintorocha10-code&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpintorocha10-code&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="left">
+  <!-- Streak de Commits -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielpintorocha10-code&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -82,11 +94,9 @@ Aqui estão alguns dos principais projetos que desenvolvi focados em backend e a
 ## 🚀 Filosofia
 
 > _"Um bom backend é aquele que ninguém percebe que existe, porque simplesmente funciona. 
-> Código deve ser construído para escalar, ser mantido facilmente e gerar valor real de negócio."_
+> O suporte me ensinou a entender a dor do usuário; a programação me deu as ferramentas para resolvê-la de forma escalável."_
 
 ---
 
 ⭐ Se você curtiu meu trabalho, considere dar uma estrela em um dos meus repositórios!  
 🤝 Sempre aberto a colaborações, parcerias e novas oportunidades no mundo Python.
-
-
