@@ -138,7 +138,7 @@ https://github.com/danielpintorocha10-code
 https://www.linkedin.com/in/daniel-pinto-rocha-dev/
 
 📧 **E-mail:**
-SEU_EMAIL_AQUI
+danielpintorocha10@gmail.com
 
 ---
 
